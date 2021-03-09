@@ -12,5 +12,5 @@
 <p align="center"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white"/></a></p>
 
 ## 🏃About me🏃
-- 🔭 I’m currently working on: my house
-- ⚡ Fun fact: I love hentai :)
+- 🔭 I’m currently working on my house🏡
+- ⚡ Fun fact: I love hentai🔞
