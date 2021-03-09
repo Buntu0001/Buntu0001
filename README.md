@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Buntu's%20Github&fontSize=90)
+
 ## 🛠️Tech Stack🛠️
 <img src="https://img.shields.io/badge/C-ABB9CC?style=flat-square&logo=c&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSharp-007396?style=flat-square&logo=CSharp&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
