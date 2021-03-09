@@ -1,3 +1,4 @@
+Hi!, I'm Buntu
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Buntu's%20Github&fontSize=90"></p>
 
 <h3 align="center">🛠️Tech Stack🛠️</h3>
