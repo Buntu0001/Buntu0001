@@ -1,5 +1,5 @@
-Hi!, I'm Buntu
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Buntu's%20Github&fontSize=90"></p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Buntu</h1>
 
 <h3 align="center">🛠️Tech Stack🛠️</h3>
 <p align="center"><img src="https://img.shields.io/badge/C-ABB9CC?style=flat-square&logo=c&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSharp-007396?style=flat-square&logo=C%20Sharp&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a></p>
