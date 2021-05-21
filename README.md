@@ -6,7 +6,7 @@
 
 
 <h3 align="center">📚Learning📚</h3>
-<p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></p>
+<p align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></p>
 
 
 <h3 align="center">💻Workspace💻</h3>
