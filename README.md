@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Buntu's%20Github&fontSize=90"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=grradis's%20Github&fontSize=90"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Buntu</h1>
 
 <h3 align="center">🛠️Tech Stack🛠️</h3>
