@@ -1,5 +1,5 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Elastic's%20Github&fontSize=90"></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm grradis</h1>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=DataCat's%20Github&fontSize=90"></p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm DataCat</h1>
 
 <h3 align="center">🛠️Tech Stack🛠️</h3>
 <p align="center"><img src="https://img.shields.io/badge/C-ABB9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%20Sharp-007396?style=flat-square&logo=C%20Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"/></p>
